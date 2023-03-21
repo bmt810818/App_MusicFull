@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true"
+    android:scrollbars="none"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/linerlayout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <fragment
+            android:layout_margin="10dp"
+            android:name="com.itplus.app_music.Fragment.Banner_Fragment"
+            android:id="@+id/FragBanner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <fragment
+            android:name="com.itplus.app_music.Fragment.Playlist_Fragment"
+            android:id="@+id/FragPlaylist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <fragment
+            android:name="com.itplus.app_music.Fragment.Fragment_Chude_Theloai_Today"
+            android:id="@+id/FragChudeTheloai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <fragment
+            android:name="com.itplus.app_music.Fragment.Album_Fragment"
+            android:id="@+id/FragAlbum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <fragment
+            android:name="com.itplus.app_music.Fragment.Baihathot_Fragment"
+            android:id="@+id/FragBaihathot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</ScrollView>
+

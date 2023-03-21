@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsach_all_album.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_play_nhac.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_dia_nhac.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/drawable/custom_bacground_banner.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/drawable/custom_bacground_playnhac.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/drawable/custom_bgr_banner.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsach_all_album.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsach_all_chu_detheo_the_loai.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsach_all_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsachalltheloai.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_play_nhac.xml" value="0.16" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/activity_timkiem.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/chude_theloai_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dia_nhac.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_album.xml" value="0.33" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_all_album.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_alltheloai.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_baihathot.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_banner.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_chudetheoteloai.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_danhsachallplaylist.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_danhsachbaihat.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_play_baihat.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/dong_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_album.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_baihathot.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_banner.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_chude_theloai.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_playlist.xml" value="0.25" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_playnhac.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_timkiem.xml" value="0.1" />
+        <entry key="..\:/Users/tranv/AndroidStudioProjects/App_Music/app/src/main/res/layout/fragment_trangchu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
